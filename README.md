@@ -31,6 +31,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Books
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
+- [97 Things All Programmers Should Know](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
 
 ## Editors
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
